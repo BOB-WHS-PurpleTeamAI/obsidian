@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "307f45f69ef71fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b9bcd32e0d0064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389279e33e661e47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43cdd9cdb81bdf26",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d465024ff85dfbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bc9f17a649bda2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c82d88857b702c64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93bee4460ac26de9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9f8cbb475ac6f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13ece2dcf8d9fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372021c1f426e836",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ab78fe2f8257cc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c8c4221b25b586c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7132fdde9ae7b58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a7132fdde9ae7b58",
+  "lastOpenFiles": [
+    "무제 파일.md",
+    "paper/Deemon.md",
+    "paper/Graphix-T5.md",
+    "paper/IGSQL.md",
+    "paper/PIIA.md",
+    "paper/RAT-SQL.md",
+    "paper/RESDSQL.md",
+    "paper/synBERT.md",
+    "paper.md",
+    "weekly_TIL.md",
+    "paper",
+    "weekly/week1.md",
+    "weekly",
+    "2.png",
+    "1.png",
+    "백링크.md",
+    "옵시디언/obsidian.md",
+    "옵시디언/옵시디안.md",
+    "옵시디언.md",
+    "옵시디언"
+  ]
+}
