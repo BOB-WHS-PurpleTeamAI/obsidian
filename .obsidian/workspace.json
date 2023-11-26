@@ -11,7 +11,7 @@
             "id": "389279e33e661e47",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,11 +139,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a7132fdde9ae7b58",
+  "active": "389279e33e661e47",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "paper/Deemon.md",
+    "paper/Automatic Exploit Generation for Web Applications.md",
     "paper/Graphix-T5.md",
+    "paper/Deemon.md",
+    "무제 파일.md",
     "paper/IGSQL.md",
     "paper/PIIA.md",
     "paper/RAT-SQL.md",
