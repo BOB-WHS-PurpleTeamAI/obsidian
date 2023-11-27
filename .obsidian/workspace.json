@@ -11,8 +11,12 @@
             "id": "389279e33e661e47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "paper/weekly_TIL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paper/weekly_TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paper/weekly_TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paper/weekly_TIL.md"
+              }
             }
           }
         ],
@@ -139,8 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "389279e33e661e47",
+  "active": "f5bc9f17a649bda2",
   "lastOpenFiles": [
+    "README.md",
+    "paper.md",
     "paper/Automatic Exploit Generation for Web Applications.md",
     "paper/Graphix-T5.md",
     "paper/Deemon.md",
@@ -150,8 +160,7 @@
     "paper/RAT-SQL.md",
     "paper/RESDSQL.md",
     "paper/synBERT.md",
-    "paper.md",
-    "weekly_TIL.md",
+    "paper/weekly_TIL.md",
     "paper",
     "weekly/week1.md",
     "weekly",
